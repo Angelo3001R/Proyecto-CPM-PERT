@@ -1,0 +1,8 @@
+[
+  {"name":"A","predecessors":[],"optimistic":2,"likely":3,"pessimistic":4},
+  {"name":"B","predecessors":["A"],"optimistic":3,"likely":5,"pessimistic":7},
+  {"name":"C","predecessors":["A"],"optimistic":1,"likely":2,"pessimistic":3},
+  {"name":"D","predecessors":["B","C"],"optimistic":2,"likely":4,"pessimistic":6},
+  {"name":"E","predecessors":["C"],"optimistic":2,"likely":3,"pessimistic":4},
+  {"name":"F","predecessors":["D","E"],"optimistic":1,"likely":2,"pessimistic":3}
+]

@@ -1,0 +1,12 @@
+VERSION CORREGIDA: interfaz desplazable
+
+Solucion al problema: los botones y la seccion inferior ya no se cortan.
+La barra vertical del borde derecho desplaza TODA la interfaz.
+Utiliza tambien la rueda del raton fuera de las tablas.
+
+1. Extrae completamente el ZIP.
+2. Abre la carpeta Proyecto_CPM_PERT.
+3. Haz doble clic en EJECUTAR_WINDOWS.bat.
+4. Ajusta la ventana si lo necesitas y baja con la barra derecha.
+
+NOTA: Cierra primero la version anterior para no confundir ventanas.
